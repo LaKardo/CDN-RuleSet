@@ -1,6 +1,6 @@
 #!/bin/bash
 
-orgs=("akamai" "amazon" "datacamp" "cloudflare" "contabo" "digitalocean" "buyvm" "fastly" "gcore" "google" "hetzner:de" "hetzner:fi" "melbicom" "microsoft" "ovh" "oracle" "scaleway" "vultr")
+orgs=("akamai" "amazon" "datacamp" "cloudflare" "contabo" "digitalocean" "frantech" "fastly" "g-core" "google" "hetzner" "melbikomas" "microsoft" "ovh" "oracle" "scaleway" "vultr")
 
 inputv4GeoLite="GeoLite2-ASN-Blocks-IPv4.csv" #GeoLite2-ASN MaxMind v4
 inputv6GeoLite="GeoLite2-ASN-Blocks-IPv6.csv" #GeoLite2-ASN MaxMind v6
